@@ -1,0 +1,35 @@
+TS001|Nguyen Van An|Nam|15/03/2004|Ha Noi
+TS002|Tran Thi Anh|Nu|22/07/2003|Hai Phong
+TS003|Le Hoang An|Nam|10/11/2004|Da Nang
+TS004|Pham Thi Ai|Nu|05/01/2004|Ho Chi Minh
+TS005|Vo Duc Anh|Nam|18/09/2003|Can Tho
+TS006|Hoang Thi Anh|Nu|28/02/2004|Ha Noi
+TS007|Nguyen Thi Binh|Nu|14/06/2004|Hai Duong
+TS008|Tran Van Bao|Nam|30/08/2003|Quang Ninh
+TS009|Le Thi Bich|Nu|12/04/2004|Nghe An
+TS010|Pham Minh Cuong|Nam|25/12/2003|Ha Tinh
+TS011|Vo Thi Chi|Nu|09/02/2004|Hue
+TS012|Hoang Van Dat|Nam|17/05/2004|Thai Binh
+TS013|Nguyen Duc Dung|Nam|03/10/2003|Nam Dinh
+TS014|Tran Thi Diem|Nu|21/03/2004|Thanh Hoa
+TS015|Le Van Duc|Nam|08/07/2003|Ha Noi
+TS016|Pham Thi Hanh|Nu|16/11/2004|Bac Ninh
+TS017|Vo Van Hieu|Nam|27/01/2004|Vinh Phuc
+TS018|Hoang Thi Hong|Nu|04/06/2003|Hai Phong
+TS019|Nguyen Van Hung|Nam|19/09/2004|Ha Noi
+TS020|Tran Thi Huong|Nu|11/02/2004|Da Nang
+TS021|Le Van Khanh|Nam|23/08/2003|Ho Chi Minh
+TS022|Pham Minh Long|Nam|06/04/2004|Can Tho
+TS023|Vo Thi Mai|Nu|29/12/2003|Quang Ninh
+TS024|Hoang Van Minh|Nam|13/05/2004|Nghe An
+TS025|Nguyen Thi Muoi|Nu|01/10/2004|Ha Tinh
+TS026|Tran Van My|Nam|20/07/2003|Hue
+TS027|Le Thi Ngoc|Nu|15/03/2004|Thai Binh
+TS028|Pham Van Nam|Nam|28/11/2003|Nam Dinh
+TS029|Vo Thi Phuong|Nu|07/01/2004|Thanh Hoa
+TS030|Hoang Minh Tai|Nam|24/06/2004|Bac Ninh
+TS031|Nguyen Van Thanh|Nam|09/08/2003|Vinh Phuc
+TS032|Tran Thi Thao|Nu|16/02/2004|Hai Phong
+TS033|Le Van Tuan|Nam|02/10/2004|Ha Noi
+TS034|Pham Minh Tri|Nam|18/04/2003|Da Nang
+TS035|Vo Thi Tuyet|Nu|26/12/2004|Ho Chi Minh
